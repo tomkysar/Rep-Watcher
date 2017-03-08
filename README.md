@@ -1,7 +1,7 @@
 # RepWatcher
 RepWatcher - iOS App for checking Augurs Reputation ($REP) price and market stats. 
 
-![Example Shot](http://i.imgur.com/kUu0zN2.png)
+![Example Shot](https://raw.githubusercontent.com/tomkysar/Rep-Watcher/master/RepWatcher/screenshot.png)
 
 ## To-Do
 - Replace deprecated NSURL session request. 
